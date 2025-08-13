@@ -1,0 +1,20 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+li{
+    font-size: 32px;
+    margin: 24px;
+    list-style: none;
+}
+p{
+    font-size: 24px;
+    color: wheat;
+}
+a{
+    color: gainsboro;
+}
